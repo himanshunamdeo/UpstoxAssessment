@@ -49,7 +49,7 @@ class MockCryptoDataService: CryptoDataService {
     }
     
     static func mockURLRequest() -> URLRequest {
-        let url = URL(string: "www.google.com")!
+        let url = URL(string: "http://www.google.com")!
         return URLRequest(url: url)
     }
 }

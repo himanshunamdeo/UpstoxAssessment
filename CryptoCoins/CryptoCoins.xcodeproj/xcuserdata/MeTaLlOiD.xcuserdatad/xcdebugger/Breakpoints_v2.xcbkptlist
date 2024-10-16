@@ -161,15 +161,93 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "25E3EA85-136E-45B0-8810-2D6550EB7901"
-            shouldBeEnabled = "Yes"
+            uuid = "4E67830D-4F17-40F9-AB65-31373C4C418A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CryptoCoins/CryptoCoinsListView Screen/ViewModel/CryptoCoinsListViewViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "fetchCryptoData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4E67830D-4F17-40F9-AB65-31373C4C418A - 4eba292f5b2cd4d6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for CryptoCoins.CryptoCoinsListViewViewModel.fetchCryptoData() async throws -&gt; ()"
+                  moduleName = "CryptoCoins"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/MeTaLlOiD/Desktop/UpstoxAssessment/UpstoxAssessment/CryptoCoins/CryptoCoins/CryptoCoinsListView%20Screen/ViewModel/CryptoCoinsListViewViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "77">
+               </Location>
+               <Location
+                  uuid = "4E67830D-4F17-40F9-AB65-31373C4C418A - 17280a84bf01cecf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for CryptoCoins.CryptoCoinsListViewViewModel.fetchCryptoData() async throws -&gt; ()"
+                  moduleName = "CryptoCoins"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/MeTaLlOiD/Desktop/UpstoxAssessment/UpstoxAssessment/CryptoCoins/CryptoCoins/CryptoCoinsListView%20Screen/ViewModel/CryptoCoinsListViewViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "4E67830D-4F17-40F9-AB65-31373C4C418A - 33f6e828054618d0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for CryptoCoins.CryptoCoinsListViewViewModel.fetchCryptoData() async throws -&gt; ()"
+                  moduleName = "CryptoCoins"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/MeTaLlOiD/Desktop/UpstoxAssessment/UpstoxAssessment/CryptoCoins/CryptoCoins/CryptoCoinsListView%20Screen/ViewModel/CryptoCoinsListViewViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "122">
+               </Location>
+               <Location
+                  uuid = "4E67830D-4F17-40F9-AB65-31373C4C418A - cda8cfa7928afad1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for CryptoCoins.CryptoCoinsListViewViewModel.fetchCryptoData() async throws -&gt; ()"
+                  moduleName = "CryptoCoins"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/MeTaLlOiD/Desktop/UpstoxAssessment/UpstoxAssessment/CryptoCoins/CryptoCoins/CryptoCoinsListView%20Screen/ViewModel/CryptoCoinsListViewViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "48">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "310A7381-2271-4A04-A7F2-74F79F2F9BE7"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "CryptoCoinsTests/CryptoCoinsListViewViewModelTests.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "85"
-            endingLineNumber = "85"
+            startingLineNumber = "89"
+            endingLineNumber = "89"
             landmarkName = "testFilterCryptoArrayWithEmptyString()"
             landmarkType = "7">
          </BreakpointContent>

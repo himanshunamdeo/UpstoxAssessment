@@ -28,6 +28,7 @@ class CryptoCoinsListViewViewModel {
         do {
             cryptoDetailsSet = Set(try await service.fetchCryptoData())
             unfilteredSet = cryptoDetailsSet
+            filteredSet = cryptoDetailsSet
         } catch {
             throw error
         }
